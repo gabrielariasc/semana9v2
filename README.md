@@ -2,6 +2,6 @@
 
 Hola Mundo!
 
-Primaria: https://gabrielariasc.github.io/Semana06.io/
+Primaria: https://gabrielariasc.github.io/semana9v2/
 
-Secundaria: https://gabrielariasc.github.io/Semana06.io/index.html
+Secundaria: https://gabrielariasc.github.io/semana9v2/index.html
